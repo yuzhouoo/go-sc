@@ -1,0 +1,7 @@
+database:
+  host: 127.0.0.1
+  port: 13306
+
+log:
+  path: "/config/"
+  name: "logs.log"
